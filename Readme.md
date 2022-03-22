@@ -75,6 +75,5 @@ This project includes the report summing up the whole results section.
 
 Some of these projects were a partial requirement for the COM4513 Natural Language Processing, COM3110 Text Processing as either assignments or labs at The University of Sheffield.
 
-Requirements:
--to use my files please make sure to install nltk first.
--the rest of necessary libraries such as numpy, matplotlib, pandas and sklearn
+**Requirements:**
+1. to run the projects please make sure to install nltk and other necessary libraries such as numpy, matplotlib, pandas and sklearn.
